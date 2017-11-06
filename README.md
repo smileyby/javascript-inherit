@@ -8,7 +8,7 @@
 
 我花了很多时间，学习这个部分，还做了很多笔记。但是都属于强行记忆，无法从根本上理解。
 
-知道昨天，我读到法国程序员[Vjeux](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html)的计时才恍然大悟，完全明白了JavaScript为什么这样设计。
+直到昨天，我读到法国程序员[Vjeux](http://blog.vjeux.com/2011/javascript/how-prototypal-inheritance-really-works.html)的计时才恍然大悟，完全明白了JavaScript为什么这样设计。
 
 下面，我尝试用自己的语言，来解释它的设计思想。彻底说明白prototype对象到底是怎么回事。其实根本就没有那么复杂，真相非常简单。
 
